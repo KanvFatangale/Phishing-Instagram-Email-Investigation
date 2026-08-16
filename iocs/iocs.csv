@@ -1,0 +1,6 @@
+Type,Value                                                                          ,,,,,,,Source,,Description
+Email,jonsnoww4545@gmail.com,,,,,,,email header,,Suspicious sender
+Domain, instogram.com,,,,,,,email URL,,Suspicious domain
+URL,https://www.instogram.com/accounts/login/,,,,,,,email body,,Phishing URL
+IP,209.85.220.41,,,,,,,Received Header,,Source mail server
+SHA256,"<6a0ca958784190e5ad097109b01adc41e289454a3f335ad8ef6416ef0d5b9411>	",,,289454a3f335ad8ef6416ef0d5b9411>,,,,Attachment,,Attachment hash
