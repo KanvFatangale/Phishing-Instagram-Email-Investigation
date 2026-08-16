@@ -1,0 +1,11 @@
+      From:	jon Snow <jonsnoww4545@gmail.com>
+			To:	"ka************@gmail.com" <ka***********.com>
+			Subject:	Your account will be suspended – Verify immediately
+			Return-Path	jonsnoww4545@gmail.com
+			Authentication-Results:
+			SPF:	PASS 
+			DKIM: 'PASS' 
+			DMARC: PASS
+			Received: Not captured in the available evidence
+			Message-ID:  <simulated-message-001@example.net>
+			Date: Sat, Aug 15, 2026
