@@ -1,0 +1,12 @@
+Dear User,
+
+			Your account will be suspended within 24 hours.
+
+			Please verify your account immediately by clicking the link below.
+
+			Click Here
+
+			Verify Account
+
+			Regards,
+			Security Team 
